@@ -1,0 +1,5 @@
+# Mirab Cars — robots policy
+User-agent: *
+Allow: /
+
+Sitemap: https://naslanalsatt-dot.github.io/cars02/sitemap.xml
